@@ -13,7 +13,7 @@ Make sure you have already installed:
   
   &nbsp;&nbsp;&nbsp;&nbsp;Code:
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr;&nbsp;[ai-fuzzy.ipynb](https://github.com/naufalhilmiaji/ai-fuzzylogic/blob/master/ai-fuzzy.ipynb) - Python Code using Jupyter Notebook
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr;&nbsp;[ai-fuzzy.ipynb](https://github.com/naufalhilmiaji/ai-fuzzylogic/blob/master/ai-fuzzy.ipynb) - Python Code using Jupyter Notebook
   
   &nbsp;&nbsp;&nbsp;&nbsp;Dataset:
   
